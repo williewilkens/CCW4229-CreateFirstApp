@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-07 13:06:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ccb9a56c518a32007f446637134c60ed</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_media_librar.media_user</sys_name>

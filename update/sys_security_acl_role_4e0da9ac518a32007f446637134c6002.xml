@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-07 13:21:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4e0da9ac518a32007f446637134c6002</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_media_librar_loan.x_snc_media_librar.loan_user</sys_name>

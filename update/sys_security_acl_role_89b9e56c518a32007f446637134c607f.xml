@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-07 13:07:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>89b9e56c518a32007f446637134c607f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_media_librar_media.x_snc_media_librar.media_user</sys_name>
